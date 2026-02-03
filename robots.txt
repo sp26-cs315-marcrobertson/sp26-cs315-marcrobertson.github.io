@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/SP26-CS315-MarcRobertson/SP26-CS315-MarcRobertson.github.io/al-folio/sitemap.xml
